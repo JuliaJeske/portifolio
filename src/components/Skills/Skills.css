@@ -1,0 +1,24 @@
+#container-skills {
+  margin: 200px 0 0 104px;
+}
+
+h1 {
+  font-weight: 600;
+  margin-bottom: 56px;
+}
+
+ul {
+  display:flex;
+  gap: 60px;
+
+}
+
+hr {
+  width: 65rem;
+  margin-left: 0;
+ 
+}
+
+#figma-template {
+  margin: 20px 0 0 53px;
+}

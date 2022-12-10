@@ -1,0 +1,18 @@
+h1 {
+  font-weight: 400;
+}
+
+#container-description {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 96px 104px 0 104px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-left: 104px;
+}
+

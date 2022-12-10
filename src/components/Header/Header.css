@@ -1,0 +1,23 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 104px 0 104px;
+
+  font-family: 'Rubik';
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 43px;
+}
+
+li {
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+li:active {
+  border-bottom: 2px solid #E894A7;
+}
